@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, SQL, R, Tableau**
 
-- 📫 How to reach me **gauravugale95@gmail.com**
+- 📫 How to reach me **gauraw.ugale@gmail.com**
 
 - ⚡ Fun fact **Sarcasm overloaded**
 
